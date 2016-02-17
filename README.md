@@ -2,7 +2,7 @@
 Jendoduchý widget pre Windows, ktorý zobrazuje aktuálny čas a ďalšie doplnkové funkcie. Na výber je z niekoľkých typov hodín, ako analógové, digitálne a binárne. Hodiny sú do určitejmiery upraviteľné. 
 
 # Authori
-Filip Gulán 
+Filip Gulán  
 Filip Ježovica  
 Lubomir Matuška  
 
